@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite2">
+    <test name="Search" >
+        <classes>
+            <class name="AdvancedSearchTests" >
+            </class>
+        </classes>
+    </test>
+</suite>
